@@ -45,7 +45,7 @@
     "babel-cli": "6.x",
     "babel-core": "6.x",
     "chai": "3.x",
-    "eslint": "3.10.x",
+    "eslint": "4.18.x",
     "eslint-plugin-shopify": "15.1.0",
     "isparta": "4.x",
     "istanbul": "0.4.4",
